@@ -1,5 +1,111 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "CCvDWlt6Kow",
+            "name": "The Very Best I Can-CCvDWlt6Kow.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/o3/videos/The Very Best I Can-CCvDWlt6Kow.mp4",
+            "size": 4.318706,
+            "url": "https://github.com/circuitalmynds/music_o3/blob/main/videos/The Very Best I Can-CCvDWlt6Kow.mp4?raw=true"
+        },
+        {
+            "id": "NjEH4VLfNzo",
+            "name": "Liszt - Tre Sonetti di Petrarca, S. 270 - 3. I' vidi in terra-NjEH4VLfNzo.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/o3/videos/Liszt - Tre Sonetti di Petrarca, S. 270 - 3. I' vidi in terra-NjEH4VLfNzo.mp4",
+            "size": 3.415985,
+            "url": "https://github.com/circuitalmynds/music_o3/blob/main/videos/Liszt - Tre Sonetti di Petrarca, S. 270 - 3. I' vidi in terra-NjEH4VLfNzo.mp4?raw=true"
+        },
+        {
+            "id": "p-1QNI6goVk",
+            "name": "Cancion Ultima-p-1QNI6goVk.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/o3/videos/Cancion Ultima-p-1QNI6goVk.mp4",
+            "size": 3.9522839999999997,
+            "url": "https://github.com/circuitalmynds/music_o3/blob/main/videos/Cancion Ultima-p-1QNI6goVk.mp4?raw=true"
+        },
+        {
+            "id": "sm6cO-FU7_E",
+            "name": "Nights-sm6cO-FU7_E.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/o3/videos/Nights-sm6cO-FU7_E.mp4",
+            "size": 3.678609,
+            "url": "https://github.com/circuitalmynds/music_o3/blob/main/videos/Nights-sm6cO-FU7_E.mp4?raw=true"
+        },
+        {
+            "id": "EQ6TYnoeGLY",
+            "name": "Liszt - Jugendglueck, S. 323 - O suesser Zauber im Jugendmut-EQ6TYnoeGLY.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/o3/videos/Liszt - Jugendglueck, S. 323 - O suesser Zauber im Jugendmut-EQ6TYnoeGLY.mp4",
+            "size": 1.262667,
+            "url": "https://github.com/circuitalmynds/music_o3/blob/main/videos/Liszt - Jugendglueck, S. 323 - O suesser Zauber im Jugendmut-EQ6TYnoeGLY.mp4?raw=true"
+        },
+        {
+            "id": "BM-KzQcH_ug",
+            "name": "Liszt - 3 Etudes de Concert, S.144 - No. 1 in A flat 'Il lamento' (A capriccio - Allegro cantabile)-BM-KzQcH_ug.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/o3/videos/Liszt - 3 Etudes de Concert, S.144 - No. 1 in A flat 'Il lamento' (A capriccio - Allegro cantabile)-BM-KzQcH_ug.mp4",
+            "size": 6.706688,
+            "url": "https://github.com/circuitalmynds/music_o3/blob/main/videos/Liszt - 3 Etudes de Concert, S.144 - No. 1 in A flat 'Il lamento' (A capriccio - Allegro cantabile)-BM-KzQcH_ug.mp4?raw=true"
+        },
+        {
+            "id": "09c_UzwleNA",
+            "name": "El \u00daltimo Vag\u00f3n-09c_UzwleNA.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/o3/videos/El \u00daltimo Vag\u00f3n-09c_UzwleNA.mp4",
+            "size": 1.432375,
+            "url": "https://github.com/circuitalmynds/music_o3/blob/main/videos/El \u00daltimo Vag\u00f3n-09c_UzwleNA.mp4?raw=true"
+        },
+        {
+            "id": "7ZOqTN7kyvQ",
+            "name": "Schumann, Carnaval, Op.9 _ Arturo Benedetti Michelangeli ( 1981 )-7ZOqTN7kyvQ.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/o3/videos/Schumann, Carnaval, Op.9 _ Arturo Benedetti Michelangeli ( 1981 )-7ZOqTN7kyvQ.mp4",
+            "size": 18.912594,
+            "url": "https://github.com/circuitalmynds/music_o3/blob/main/videos/Schumann, Carnaval, Op.9 _ Arturo Benedetti Michelangeli ( 1981 )-7ZOqTN7kyvQ.mp4?raw=true"
+        },
+        {
+            "id": "cBmKkm6J7oM",
+            "name": "Liszt - Die Ideale, symphonic poem No. 12, S. 106 (after Schiller)-cBmKkm6J7oM.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/o3/videos/Liszt - Die Ideale, symphonic poem No. 12, S. 106 (after Schiller)-cBmKkm6J7oM.mp4",
+            "size": 17.434485,
+            "url": "https://github.com/circuitalmynds/music_o3/blob/main/videos/Liszt - Die Ideale, symphonic poem No. 12, S. 106 (after Schiller)-cBmKkm6J7oM.mp4?raw=true"
+        },
+        {
+            "id": "bpF9i6fzM28",
+            "name": "Gershwin - Rhapsody No. 2 for Piano and Orchestra (New York Rhapsody)-bpF9i6fzM28.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/o3/videos/Gershwin - Rhapsody No. 2 for Piano and Orchestra (New York Rhapsody)-bpF9i6fzM28.mp4",
+            "size": 12.145348,
+            "url": "https://github.com/circuitalmynds/music_o3/blob/main/videos/Gershwin - Rhapsody No. 2 for Piano and Orchestra (New York Rhapsody)-bpF9i6fzM28.mp4?raw=true"
+        },
+        {
+            "id": "9aOO5JL_sA4",
+            "name": "Fryderyk Chopin  - Polonaise op.53 '' Heroic '' ( Orchestral Version ) - Berlin Symphony Orchestra-9aOO5JL_sA4.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/o3/videos/Fryderyk Chopin  - Polonaise op.53 '' Heroic '' ( Orchestral Version ) - Berlin Symphony Orchestra-9aOO5JL_sA4.mp4",
+            "size": 11.249025999999999,
+            "url": "https://github.com/circuitalmynds/music_o3/blob/main/videos/Fryderyk Chopin  - Polonaise op.53 '' Heroic '' ( Orchestral Version ) - Berlin Symphony Orchestra-9aOO5JL_sA4.mp4?raw=true"
+        },
+        {
+            "id": "Cymc5VlnP_Q",
+            "name": "Keyboard Sonata No. 1 in G Major, Hob. XVI, 8 - I. Allegro-Cymc5VlnP_Q.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/o3/videos/Keyboard Sonata No. 1 in G Major, Hob. XVI, 8 - I. Allegro-Cymc5VlnP_Q.mp4",
+            "size": 2.606854,
+            "url": "https://github.com/circuitalmynds/music_o3/blob/main/videos/Keyboard Sonata No. 1 in G Major, Hob. XVI, 8 - I. Allegro-Cymc5VlnP_Q.mp4?raw=true"
+        },
+        {
+            "id": "z69W7Jv5A-o",
+            "name": "Al Bowlly - Just An Echo In The Valley (1933)-z69W7Jv5A-o.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/o3/videos/Al Bowlly - Just An Echo In The Valley (1933)-z69W7Jv5A-o.mp4",
+            "size": 3.343088,
+            "url": "https://github.com/circuitalmynds/music_o3/blob/main/videos/Al Bowlly - Just An Echo In The Valley (1933)-z69W7Jv5A-o.mp4?raw=true"
+        },
+        {
+            "id": "Jw8h79Sye6o",
+            "name": "Liszt - Ann\u00e9es de p\u00e8lerinage III, S. 163 - I. Angelus (Pri\u00e8re aux anges gardiens)-Jw8h79Sye6o.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/o3/videos/Liszt - Ann\u00e9es de p\u00e8lerinage III, S. 163 - I. Angelus (Pri\u00e8re aux anges gardiens)-Jw8h79Sye6o.mp4",
+            "size": 6.618498,
+            "url": "https://github.com/circuitalmynds/music_o3/blob/main/videos/Liszt - Ann\u00e9es de p\u00e8lerinage III, S. 163 - I. Angelus (Pri\u00e8re aux anges gardiens)-Jw8h79Sye6o.mp4?raw=true"
+        },
+        {
+            "id": "_c_KjnJH4rk",
+            "name": "Sonata No. 1 in E flat major (Sonate en mi b\u00e9mol majeur no 1. Scene dans le Stile path\u00e9tique)...-_c_KjnJH4rk.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/o3/videos/Sonata No. 1 in E flat major (Sonate en mi b\u00e9mol majeur no 1. Scene dans le Stile path\u00e9tique)...-_c_KjnJH4rk.mp4",
+            "size": 4.025345,
+            "url": "https://github.com/circuitalmynds/music_o3/blob/main/videos/Sonata No. 1 in E flat major (Sonate en mi b\u00e9mol majeur no 1. Scene dans le Stile path\u00e9tique)...-_c_KjnJH4rk.mp4?raw=true"
+        }
+    ],
+    "total_size": 101.10255199999999
 }
