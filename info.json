@@ -23,6 +23,20 @@
             "url": "https://github.com/circuitalmynds/music_o3/blob/main/videos/Introduzione e Rondo brillant in B-Flat Major, Op. 233 [SR8e4ziubqg].mp4?raw=true"
         },
         {
+            "id": "mBou27s0KRo",
+            "name": "La Cucaracha [mBou27s0KRo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o3/videos/La Cucaracha [mBou27s0KRo].mp4",
+            "size": 3.6583889999999997,
+            "url": "https://github.com/circuitalmynds/music_o3/blob/main/videos/La Cucaracha [mBou27s0KRo].mp4?raw=true"
+        },
+        {
+            "id": "5AK6M9MpiqA",
+            "name": "Blue Lou [5AK6M9MpiqA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o3/videos/Blue Lou [5AK6M9MpiqA].mp4",
+            "size": 6.448404999999999,
+            "url": "https://github.com/circuitalmynds/music_o3/blob/main/videos/Blue Lou [5AK6M9MpiqA].mp4?raw=true"
+        },
+        {
             "id": "NjEH4VLfNzo",
             "name": "Liszt - Tre Sonetti di Petrarca, S. 270 - 3. I' vidi in terra-NjEH4VLfNzo.mp4",
             "path": "/home/alanmatzumiya/Videos/container/o3/videos/Liszt - Tre Sonetti di Petrarca, S. 270 - 3. I' vidi in terra-NjEH4VLfNzo.mp4",
@@ -119,6 +133,13 @@
             "path": "/home/alanmatzumiya/Videos/container/o3/videos/Gershwin - Rhapsody No. 2 for Piano and Orchestra (New York Rhapsody)-bpF9i6fzM28.mp4",
             "size": 12.145348,
             "url": "https://github.com/circuitalmynds/music_o3/blob/main/videos/Gershwin - Rhapsody No. 2 for Piano and Orchestra (New York Rhapsody)-bpF9i6fzM28.mp4?raw=true"
+        },
+        {
+            "id": "Vvio6xC4OUk",
+            "name": "Emile Waldteufel - Pomone (Waltz, Op.155) [Vvio6xC4OUk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o3/videos/Emile Waldteufel - Pomone (Waltz, Op.155) [Vvio6xC4OUk].mp4",
+            "size": 8.697118999999999,
+            "url": "https://github.com/circuitalmynds/music_o3/blob/main/videos/Emile Waldteufel - Pomone (Waltz, Op.155) [Vvio6xC4OUk].mp4?raw=true"
         },
         {
             "id": "rO2L9Q06CTE",
@@ -317,11 +338,25 @@
             "url": "https://github.com/circuitalmynds/music_o3/blob/main/videos/Radio Futura - Corazon de Tiza (Video) [udWpPRra6L8].mp4?raw=true"
         },
         {
+            "id": "O2lxEVnhox0",
+            "name": "Al Bano & Romina Power - Felicita • TopPop [O2lxEVnhox0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o3/videos/Al Bano & Romina Power - Felicita • TopPop [O2lxEVnhox0].mp4",
+            "size": 10.584985,
+            "url": "https://github.com/circuitalmynds/music_o3/blob/main/videos/Al Bano & Romina Power - Felicita • TopPop [O2lxEVnhox0].mp4?raw=true"
+        },
+        {
             "id": "vhEwYeDWuH8",
             "name": "Liszt： Hungarian Rhapsody No. 6 in D Flat, S. 244 [vhEwYeDWuH8].mp4",
             "path": "/home/alanmatzumiya/Videos/container/o3/videos/Liszt： Hungarian Rhapsody No. 6 in D Flat, S. 244 [vhEwYeDWuH8].mp4",
             "size": 14.585839,
             "url": "https://github.com/circuitalmynds/music_o3/blob/main/videos/Liszt： Hungarian Rhapsody No. 6 in D Flat, S. 244 [vhEwYeDWuH8].mp4?raw=true"
+        },
+        {
+            "id": "BaPZV3ChriU",
+            "name": "Bach - Violin Partita in E Major： Prelude, Gavotte and Gigue： Gavotte [BaPZV3ChriU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o3/videos/Bach - Violin Partita in E Major： Prelude, Gavotte and Gigue： Gavotte [BaPZV3ChriU].mp4",
+            "size": 7.228375,
+            "url": "https://github.com/circuitalmynds/music_o3/blob/main/videos/Bach - Violin Partita in E Major： Prelude, Gavotte and Gigue： Gavotte [BaPZV3ChriU].mp4?raw=true"
         },
         {
             "id": "_c_KjnJH4rk",
@@ -331,5 +366,5 @@
             "url": "https://github.com/circuitalmynds/music_o3/blob/main/videos/Sonata No. 1 in E flat major (Sonate en mi bémol majeur no 1. Scene dans le Stile pathétique)...-_c_KjnJH4rk.mp4?raw=true"
         }
     ],
-    "total_size": 892.6220020000001
+    "total_size": 929.239275
 }
